@@ -1,6 +1,6 @@
 # deep_radiotranscriptomics_survival_analysis
 
-The proposed methodology is a survival analysis for NSCLC patients. Two classifiers are examined, Survival Support Vector Machine and Random Survival Forest. The classifiers take as input: 
+The proposed methodology is a survival analysis for non-small cell lung cancer patients. Two classifiers are examined, Survival Support Vector Machine and Random Survival Forest. The classifiers take as input: 
 <ul>
   <li>a) radiomics, transcriptomics, and deep features</li> 
   <li>b) radiomics and deep features </li>
